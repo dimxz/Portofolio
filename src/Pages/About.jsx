@@ -205,7 +205,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Eki Zulfar Rachman
+                Adimas Said Nursyahputra
               </span>
             </h2>
             
@@ -214,10 +214,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              seorang siswa Teknik Jaringan Komputer dan Telekomunikasi yang
-              tertarik dalam pengembangan Front-End. Saya berfokus pada
-              menciptakan pengalaman digital yang menarik dan selalu berusaha
-              memberikan solusi terbaik dalam setiap proyek.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eleifend in nisl eu interdum. Sed vitae nisi venenatis, congue felis pulvinar, lobortis odio. Sed at tellus condimentum, vulputate ligula at, vulputate dui. Proin vestibulum quis erat id fermentum. Morbi ac arcu ac urna finibus blandit. Nulla in cursus ex. Proin vitae mi magna. Donec auctor lectus posuere urna tincidunt, vel lobortis mi suscipit. Morbi sed nisi convallis, volutpat augue et, imperdiet odio. 
             </p>
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
